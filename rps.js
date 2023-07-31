@@ -135,7 +135,7 @@ function checkScore() {
         compTally = 0;
         results.textContent = "Results: ";
     }
-}
+} 
 
 
 
